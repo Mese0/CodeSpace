@@ -1,0 +1,21 @@
+<svg width="1784.000000" height="1590.000000" viewBox="0 0 1784 1590" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter id="filter_15_21_dd" x="0.000000" y="0.000000" width="1784.000000" height="1590.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="-25" dy="40"/>
+            <feGaussianBlur stdDeviation="33.3333"/>
+            <feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+            <feColorMatrix type="matrix" values="0 0 0 0 0.21569 0 0 0 0 0.21569 0 0 0 0 0.21569 0 0 0 0.2 0"/>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+        </filter>
+        <linearGradient x1="124.999573" y1="60.000000" x2="1709.000000" y2="1481.500122" id="paint_linear_15_21_0" gradientUnits="userSpaceOnUse">
+            <stop offset="0.038772" stop-color="#B3FD80"/>
+            <stop offset="1.000000" stop-color="#3BE4FF"/>
+        </linearGradient>
+    </defs>
+    <g filter="url(#filter_15_21_dd)">
+        <path id="矢量 3" d="M693 60L1365 60C1411.94 60 1450 98.05 1450 145C1450 191.94 1411.94 230 1365 230L693 230C646.05 230 608 191.94 608 145C608 98.05 646.05 60 693 60ZM435 365L1624 365C1670.94 365 1709 403.05 1709 450C1709 496.94 1670.94 535 1624 535L435 535C388.05 535 350 496.94 350 450C350 403.05 388.05 365 435 365ZM809 670L210 670C163.05 670 125 708.05 125 755C125 801.94 163.05 840 210 840L809 840C855.94 840 894 801.94 894 755C894 708.05 855.94 670 809 670ZM435 975L1624 975C1670.94 975 1709 1013.06 1709 1060C1709 1106.93 1670.94 1145 1624 1145L435 1145C388.05 1145 350 1106.93 350 1060C350 1013.06 388.05 975 435 975ZM1365 1280L693 1280C646.05 1280 608 1318.06 608 1365C608 1411.94 646.05 1450 693 1450L1365 1450C1411.94 1450 1450 1411.94 1450 1365C1450 1318.06 1411.94 1280 1365 1280Z" fill="url(#paint_linear_15_21_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+    </g>
+</svg>
